@@ -19,7 +19,7 @@ Currently available packages
 
 ## Steps to Create an AWS Lambda Layer
 
-1. Select the puthon runtime version and library youwould like to use, and download the corresponding package (see previous section for the folder structure and listing)
+1. Select the puthon runtime version and library you would like to use, and download the corresponding package (see previous section for the folder structure and listing)
 
 2. Login to AWS Console and navigate to AWS Lambda > Layers
 
@@ -29,7 +29,7 @@ Currently available packages
 
 5. Select 'upload file' and choose the `python.zip` package that you just downloaded
 
-    💡 *Tip:* Sometimes the upload from local might timeout and fail for heavier packages. Try uploading firtsto an S3 bucket location and then choosing 'upload from s3' in Lambda Layers console to overcome this problem.
+    💡 *Tip:* Sometimes the upload from local might timeout and fail for heavier packages. Try uploading firts to an S3 bucket location and then choosing 'upload from s3' in Lambda Layers console to overcome this problem.
 
 6. Select the correct runtime version(s). Exmaple: python.3.8
 

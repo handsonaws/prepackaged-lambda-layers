@@ -10,21 +10,24 @@ Ready-to-use AWS Lambda Layer packages.
 Python runtime folders
 
 - Python 3.8
+- Python 3.11
 
-Currently available packages
+
+Currently available packages in Python 3.8
 
 - Pandas 1.4.2
 - Requests 2.27.1
 - OpenAI 0.27.0
 
-- Python 3.11
 
-Currently available packages
+Currently available packages in Python 3.11
 
 - matplotlib 3.7.1
 - numpy 1.25.2
 - openai 0.27.4
 - pandas 2.0.3
+
+More maybe added in future.
 
 ## Steps to Create an AWS Lambda Layer
 

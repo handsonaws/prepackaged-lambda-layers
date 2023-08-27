@@ -17,6 +17,15 @@ Currently available packages
 - Requests 2.27.1
 - OpenAI 0.27.0
 
+- Python 3.11
+
+Currently available packages
+
+- matplotlib 3.7.1
+- numpy 1.25.2
+- openai 0.27.4
+- pandas 2.0.3
+
 ## Steps to Create an AWS Lambda Layer
 
 1. Select the puthon runtime version and library you would like to use, and download the corresponding package (see previous section for the folder structure and listing)
